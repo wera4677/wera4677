@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 헤더 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=GitHub_of_Jaeyeop-wera4677&fontColor=FFFFFF" /> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=GitHub_of_wera4677&fontColor=FFFFFF" /> 
 
   <br/>
 
