@@ -106,6 +106,6 @@
 - 🔭 I’m currently building **AI-based cloud services and internal automation tools.**  
 - 🌱 I’m learning **Azure, Terraform, and multi-cloud architecture.**  
 - 💬 Ask me about **AWS, Docker, Kubernetes, and CI/CD pipelines.**  
-- 📫 Reach me at: **jaeyeop@example.com**  
+- 📫 Reach me at: **woco11@naver.com**  
 - 🏙️ Based in **Republic of Korea (Ulsan)**  
 - ⚡ Fun fact: I love automating things that most people do manually!
