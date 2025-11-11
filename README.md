@@ -1,100 +1,111 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Git-Hub_of_HG-wera4677&fontColor=FFFFFF" /> 
+  <!-- 헤더 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=GitHub_of_Jaeyeop-wera4677&fontColor=FFFFFF" /> 
 
   <br/>
+
+  <!-- 타이핑 효과 -->
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I+am+Jaeyeop.;Welcome+to+My+GitHub+Profile!;AWS+Certified+Solutions+Architect+Associate+☁️;Cloud+Engineer+%7C+DevOps+Learner+%7C+AI+Project+Builder;Experience+with+AWS,+Docker,+and+Kubernetes;Passionate+about+Automation,+Infra,+and+Backend+Dev!)](https://git.io/typing-svg)
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Heongyu+Kim.;+Welcome+to+My+Profile!;Over+1+years+of+programming+experience!!;I+am+constantly+learning+backend+development!!!;Experienced+with+Spring+and+React!!!!;Passionate+about+building+projects+and+APIs!!!!!;Always+eager+to+learn+new+technologies!!!!!!)](https://git.io/typing-svg)
-  
-  <a href="https://github.com/HG-KR98/">
-      <img src="https://github-profile-trophy.vercel.app/?username=HG-KR98&theme=flat&column=8" alt="trophy" />
+  <!-- 트로피 -->
+  <a href="https://github.com/wera4677/">
+      <img src="https://github-profile-trophy.vercel.app/?username=wera4677&theme=flat&column=8" alt="trophy" />
   </a>
 
-  <br/>
-  <br/>
-  
+  <br/><br/>
+
+  <!-- 깃허브 통계 -->
   <div style="display: flex; flex-direction: row;">
-    <a href="https://github.com/HG-KR98"><img align="center" style="height:180px;" src="https://github-readme-stats.vercel.app/api?username=HG-KR98&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="HG-KR98's github stats" /></a>
-   <a href="https://github.com/HG-KR98"><img align="center" style="height:180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HG-KR98&layout=compact&theme=nord&hide_border=true" /></a>
+    <a href="https://github.com/wera4677">
+      <img align="center" style="height:180px;" src="https://github-readme-stats.vercel.app/api?username=wera4677&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Jaeyeop's github stats" />
+    </a>
+    <a href="https://github.com/wera4677">
+      <img align="center" style="height:180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wera4677&layout=compact&theme=nord&hide_border=true" />
+    </a>
   </div>
 
-  <!-- Languages  -->
+  <!-- Languages -->
   <h3>💡 Languages 💡</h3>
   <div>
-    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </div>
 
-  <!-- Tech Stack  -->
+  <!-- Tech Stack -->
   <h3>✨ Tech Stack ✨</h3>
   <div>
-    <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-    <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp
   </div>
 
   <!-- Database -->
   <h3>💾 Database 💾</h3>
-  <div align="center">
-      <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-      <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <div>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   </div>
 
   <!-- Deployment -->
   <h3>🚀 Deployment 🚀</h3>
-  <div align="center">
-      <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-      <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-      <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-      <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <div>
+    <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Argo CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" />
   </div>
-
 
   <!-- Communication -->
   <h3>💬 Communication 💬</h3>
-  <div align="center">
-      <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-      <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <div>
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   </div>
 
-  <h3>📚 Studying 📚</h3>
+  <!-- Studying -->
+  <h3>📚 Currently Learning 📚</h3>
   <div>
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/CI/CD-FF7A00?style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/AI%20API-000000?style=for-the-badge&logo=openai&logoColor=white" />
   </div>
 
   <br/>
-  
+
+  <!-- Activity Graph -->
   <div>
-    <a href="https://github.com/HG-KR98/github-readme-activity-graph" >
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=HG-KR98&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+    <a href="https://github.com/wera4677/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=wera4677&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
     </a>
   </div>
-  
+
+  <!-- Snake Animation -->
   <div>
-    <a href="https://github.com/HG-KR98/github-readme-activity-graph">
-      <img src="https://github.com/HG-KR98/HG-KR98/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
-    </a>
+    <img src="https://github.com/wera4677/wera4677/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </div>
-  
-  <div align = right>
-    <h3> 👀 Profile Views - From January 5th, 2025 </h3>
-    <img src="https://count.getloli.com/get/@HG-KR98.github.readme" />
+
+  <!-- 방문자 수 -->
+  <div align="right">
+    <h3> 👀 Profile Views - Since 2025 </h3>
+    <img src="https://count.getloli.com/get/@wera4677.github.readme" />
   </div>
 </div>
 
 <hr/>
 
-- 👋 Hi, My name is Heon Gyu kim. I'm 27 years old.
-- 👀 I’m interested in playing game(Nintendo, PS5), reading a book, Stock investing. 
-- 📫 How to reach me : Please contact me via my e-mail(khg6436@naver.com), I don't have Instagram and Facebook account.
-- 😄 Pronouns : Ordinary 
-- ⚡ Fun fact : I think that everyone is not ordinary.
-- 🏙️ residence : Republic of Korea in Gumi
-- 🏫 School : Dosan(Elementary), Gumi(middle), Gumi(High), Keimyung(University), SSAFY
-
-<!---
-HG-KR98/HG-KR98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, my name is **Jaeyeop**.  
+- ☁️ I'm an **AWS Certified Cloud Engineer** passionate about DevOps, automation, and backend systems.  
+- 🔭 I’m currently building **AI-based cloud services and internal automation tools.**  
+- 🌱 I’m learning **Azure, Terraform, and multi-cloud architecture.**  
+- 💬 Ask me about **AWS, Docker, Kubernetes, and CI/CD pipelines.**  
+- 📫 Reach me at: **jaeyeop@example.com**  
+- 🏙️ Based in **Republic of Korea (Ulsan)**  
+- ⚡ Fun fact: I love automating things that most people do manually!
