@@ -1,86 +1,100 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20Jaeyeop's%20Github&fontSize=50" alt="header">
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Git-Hub_of_HG-KR98&fontColor=FFFFFF" /> 
 
-<!-- 방문자 수 카운터 -->
-<p align="center">
-  <a href="https://github.com/wera4677">
+  <br/>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Heongyu+Kim.;+Welcome+to+My+Profile!;Over+1+years+of+programming+experience!!;I+am+constantly+learning+backend+development!!!;Experienced+with+Spring+and+React!!!!;Passionate+about+building+projects+and+APIs!!!!!;Always+eager+to+learn+new+technologies!!!!!!)](https://git.io/typing-svg)
+  
+  <a href="https://github.com/HG-KR98/">
+      <img src="https://github-profile-trophy.vercel.app/?username=HG-KR98&theme=flat&column=8" alt="trophy" />
   </a>
-</p>
 
----
+  <br/>
+  <br/>
+  
+  <div style="display: flex; flex-direction: row;">
+    <a href="https://github.com/HG-KR98"><img align="center" style="height:180px;" src="https://github-readme-stats.vercel.app/api?username=HG-KR98&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="HG-KR98's github stats" /></a>
+   <a href="https://github.com/HG-KR98"><img align="center" style="height:180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HG-KR98&layout=compact&theme=nord&hide_border=true" /></a>
+  </div>
 
-<h3 align="center">💻 Tech Stack</h3>
+  <!-- Languages  -->
+  <h3>💡 Languages 💡</h3>
+  <div>
+    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <!-- Tech Stack  -->
+  <h3>✨ Tech Stack ✨</h3>
+  <div>
+    <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+    <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
+  </div>
+
+  <!-- Database -->
+  <h3>💾 Database 💾</h3>
+  <div align="center">
+      <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  </div>
+
+  <!-- Deployment -->
+  <h3>🚀 Deployment 🚀</h3>
+  <div align="center">
+      <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+      <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+      <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  </div>
+
+
+  <!-- Communication -->
+  <h3>💬 Communication 💬</h3>
+  <div align="center">
+      <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+      <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </div>
+
+  <h3>📚 Studying 📚</h3>
+  <div>
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  </div>
+
+  <br/>
+  
+  <div>
+    <a href="https://github.com/HG-KR98/github-readme-activity-graph" >
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=HG-KR98&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+    </a>
+  </div>
+  
+  <div>
+    <a href="https://github.com/HG-KR98/github-readme-activity-graph">
+      <img src="https://github.com/HG-KR98/HG-KR98/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    </a>
+  </div>
+  
+  <div align = right>
+    <h3> 👀 Profile Views - From January 5th, 2025 </h3>
+    <img src="https://count.getloli.com/get/@HG-KR98.github.readme" />
+  </div>
 </div>
 
-<br>
+<hr/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
-</div>
+- 👋 Hi, My name is Heon Gyu kim. I'm 27 years old.
+- 👀 I’m interested in playing game(Nintendo, PS5), reading a book, Stock investing. 
+- 📫 How to reach me : Please contact me via my e-mail(khg6436@naver.com), I don't have Instagram and Facebook account.
+- 😄 Pronouns : Ordinary 
+- ⚡ Fun fact : I think that everyone is not ordinary.
+- 🏙️ residence : Republic of Korea in Gumi
+- 🏫 School : Dosan(Elementary), Gumi(middle), Gumi(High), Keimyung(University), SSAFY
 
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-FFD700?style=for-the-badge&logo=java&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Spring Boot-87CEEB?style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Spring-98FB98?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/JPA-FFB6C1?style=for-the-badge&logo=hibernate&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
-</div>
-
----
-
-<h3 align="center">🧰 Tools</h3>
-
-<div align="center">
- <h3> 준비중<h3>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/intelliJ-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=F37726" />&nbsp
-  <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" />&nbsp
-</div>
-
----
-
-<h3 align="center">📫 Contact</h3>
-<div align="center">
-  <a href="mailto:woco11@naver.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
-  </a>
-  <a href="https://github.com/wera4677">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  </a>
-</div>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-  <a href="https://github.com/wera4677">
-    <img src="https://github-readme-stats.vercel.app/api?username=wera4677&include_all_commits=true&show_icons=true&theme=radical" height="180px" />
-  </a>
-  <a href="https://github.com/wera4677">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wera4677&layout=compact&theme=radical" height="180px" />
-  </a>
-</div>
+<!---
+HG-KR98/HG-KR98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
